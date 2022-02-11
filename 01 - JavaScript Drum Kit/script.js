@@ -1,5 +1,4 @@
 function playSound(e) {
-    console.log(e);
     let key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     let audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     if (!audio) return;
