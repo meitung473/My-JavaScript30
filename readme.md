@@ -3,7 +3,7 @@
 
 |序 |筆記 | 程式碼|
 | --- | ---| ---|
-| 01 - JavaScript Drum Kit | [筆記](/01 - JavaScript Drum Kit/memo_01.md)|[source](./01 - JavaScript Drum Kit/script.js)|
+| 01 - JavaScript Drum Kit | [筆記](../tree/master/01 - JavaScript Drum Kit/memo_01.md)|[source](../tree/master/01 - JavaScript Drum Kit/script.js)|
 | 02 - JS and CSS Clock| | |
 | 03 - CSS Variables| | |
 | 04 - Array Cardio Day 1| | |
