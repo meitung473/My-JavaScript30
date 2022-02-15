@@ -53,6 +53,7 @@ Array 是 JS API
 
 > getElementsByClassName v.s querySelectorAll  
 > 兩者取到的都是類陣列。前者是 `HTMLCollection`，後者是 `NodeList`。如果要使用 Array 的內建函式，必須先轉成 Array  
+>![HTMLCollection v.s NodeList](./img/htmlELvsNodelist.png)
 
 
 參考 : [NodeList 與 Array 差異](https://ithelp.ithome.com.tw/articles/10211876)  
