@@ -62,7 +62,7 @@ panel 的方向是 column，主軸是會調整到高度
 
 #### tranistionend : 監聽漸變動畫結束事件
 利用 JavaScript 來控制動畫，可以監聽 tranistion 屬性的結束點，再觸發下一個動畫     
-在 [01 的鼓](../01 - JavaScript Drum Kit/memo_01.md) 有實作過，再來複習一下  
+在 [01 的鼓](https://github.com/meitung473/My-JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/memo_01.md) 有實作過，再來複習一下  
 
 可以先印出 `e.propertyName`，點擊後新增 open className 的動畫後，會看見有兩個動畫執行結束的順序，依序是 flex-grow 跟 font-size，執行完後才會把上下兩排字擺到正確位置，如何知道 transition 的結束，就是要使用 transitionend 的監聽事件啦。  
 
